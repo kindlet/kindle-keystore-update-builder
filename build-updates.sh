@@ -1,6 +1,6 @@
 #! /bin/sh
 
-HACKNAME="dev-key"
+HACKNAME="devkey"
 PKGNAME="${HACKNAME##*link}"
 PKGVER="0.4.N"
 mkdir build
