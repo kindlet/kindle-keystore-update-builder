@@ -1,5 +1,5 @@
 # kindle-keystore-update-builder
-## Currently Not Working
+## :warning: Currently Not Working :warning:
 I have no idea why this isn't working but the `Update your Kindle` button is greyed out.
 ## Usage
 1. Copy your .keystore to this folder and name it `developer.keystore`
